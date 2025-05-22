@@ -28,7 +28,7 @@ Test your vocabulary and have fun with this classic game, now with a modern, vis
 
 | Start Page | In-Game | Win Dialog | Lose Dialog |
 |:----------:|:-------:|:----------:|:-----------:|
-| ![](screenshots/1.png) | ![](screenshots/2.png) | ![](screenshots/3.png) | ![](screenshots/4.png) |
+| ![](screenshots/1.png) | ![](screenshots/2.png) | ![](screenshots/4.png) | ![](screenshots/5.png) |
 
 ---
 
